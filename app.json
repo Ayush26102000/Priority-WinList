@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "WeekPlanner",
+    "slug": "WeekPlanner",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "WeekPlanner"
+}
